@@ -1,0 +1,1 @@
+vehicleSELECT * FROM node_tut.users;
